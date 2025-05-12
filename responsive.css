@@ -1,0 +1,363 @@
+@media only screen and (max-width:1024px) {
+
+
+    p {
+        font-size: 1.5vw !important;
+    }
+
+    a,
+    span {
+        font-size: 2vw !important;
+    }
+
+    h1 {
+        font-size: 5vw !important;
+    }
+
+    h2 {
+        font-size: 3.5vw !important;
+    }
+
+    strike {
+        font-size: 2vw !important;
+    }
+
+    i {
+        font-size: 3vw !important;
+    }
+
+
+    /* button */
+
+
+    button {
+        font-size: 2vw !important;
+    }
+
+    /* content navbar */
+    .offcanvas {
+        background-color: #0D1D55 !important;
+    }
+
+    .navbar b {
+        font-size: 3vw !important;
+    }
+
+
+    /* content first */
+
+
+    .content-first-data {
+        top: 5% !important;
+    }
+
+    .content-first-data span {
+        font-size: 1.5vw !important;
+    }
+
+    .content-first .carousel-control-prev {
+        height: 20px;
+        width: 20px;
+    }
+
+    .content-first .carousel-control-next {
+        height: 20px;
+        width: 20px;
+    }
+
+
+    /* content third */
+
+
+    .content-third-slide-po {
+        top: 10% !important;
+    }
+
+    .content-third-slide-po i {
+        font-size: 3vw !important;
+    }
+
+    .content-third-slider:hover::before {
+        height: 65%;
+    }
+
+    .content-third ul {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .content-third ul a {
+        font-size: 4vw !important;
+    }
+
+
+    /* content four */
+
+
+    .content-four-data .col-md-3 p {
+        font-size: 3vw !important;
+    }
+
+    .content-four-data .col-md-3 span {
+        font-size: 2vw !important;
+    }
+
+
+    /* content six */
+
+
+    .content-six-pic {
+        height: 25vh;
+    }
+
+
+    /* content six */
+
+
+    .content-seven #carouselExampleIndicators {
+        height: 25vh !important;
+    }
+
+
+    /* content eight */
+
+
+    .content-eight-slide:hover::before {
+        height: 80% !important;
+    }
+
+    .content-eight h5 {
+        font-size: 4vw !important;
+        text-align: center;
+    }
+
+
+    /* content ten */
+
+
+    .content-ten p {
+        font-size: 2.5vw !important;
+    }
+
+
+    /* content footer */
+
+
+    .content-footer b {
+        font-size: 3.5vw !important;
+    }
+
+    .content-footer a {
+        font-size: 2.5vw !important;
+    }
+
+    .content-footer p {
+        font-size: 2.5vw !important;
+    }
+
+
+    /* content last */
+
+
+    .content-last p {
+        font-size: 2.5vw !important;
+    }
+
+    .content-last ul li {
+        width: 4vw !important;
+    }
+}
+
+@media only screen and (max-width:576px) {
+
+
+    p {
+        font-size: 2vw !important;
+    }
+
+    a,
+    span {
+        font-size: 2.5vw !important;
+    }
+
+    strike {
+        font-size: 2.5vw !important;
+    }
+
+
+    /* content navbar */
+
+
+    .navbar b {
+        font-size: 5vw !important;
+    }
+
+
+    /* content first */
+
+
+    .content-first-data {
+        top: 20% !important;
+    }
+
+
+    .content-first-data span {
+        font-size: 1.5vw !important;
+    }
+
+
+    /* content third */
+
+
+    .content-third-slider:hover::before {
+        height: 60%;
+    }
+
+    .fa-star{
+        font-size: 5vw !important;
+    }
+
+
+    /* content four */
+
+
+    .content-four-data .col-md-3 p {
+        font-size: 5vw !important;
+    }
+
+    .content-four-data .col-md-3 span {
+        font-size: 4vw !important;
+    }
+
+
+    /* content seven */
+
+
+    .content-seven #carouselExampleIndicators {
+        height: 20vh !important;
+    }
+
+
+    /* content eight */
+
+
+    .content-eight h5 {
+        font-size: 6vw !important;
+    }
+
+    .content-eight ul {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .content-eight ul a {
+        font-size: 4vw !important;
+    }
+
+
+    /* content ten */
+
+
+    .content-ten p {
+        font-size: 3vw !important;
+        text-align: center;
+    }
+
+    .content-ten input {
+        font-size: 3vw !important;
+    }
+
+    .content-ten input::placeholder {
+        font-size: 3vw !important;
+    }
+
+
+    /* content footer */
+
+
+    .content-footer b {
+        font-size: 5.5vw !important;
+    }
+
+    .content-footer a {
+        font-size: 3.5vw !important;
+    }
+
+    .content-footer p {
+        font-size: 3.5vw !important;
+    }
+
+
+    /* content last */
+
+
+    .content-last p {
+        font-size: 3.5vw !important;
+    }
+
+    .content-last ul li {
+        width: 10vw !important;
+    }
+}
+
+@media only screen and (max-width:429px) {
+
+
+    p {
+        font-size: 3vw !important;
+    }
+
+    a,
+    span {
+        font-size: 3vw !important;
+    }
+
+    strike {
+        font-size: 2.5vw !important;
+    }
+
+    h2 {
+        font-size: 5vw !important;
+    }
+
+    h4 {
+        font-size: 4vw !important;
+    }
+
+    /* content navbar */
+    .navbar b {
+        font-size: 7vw !important;
+    }
+
+
+    /* content first */
+
+
+    .content-first-data {
+        top: 5% !important;
+    }
+
+
+    /* content seven */
+
+
+    .content-seven #carouselExampleIndicators {
+        height: 25vh !important;
+    }
+
+}
+
+@media only screen and (max-width:320px) {
+    /* content navbar */
+
+
+    i {
+        font-size: 5vw !important;
+    }
+
+
+}
